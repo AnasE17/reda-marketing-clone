@@ -36,5 +36,3 @@ npm start
 - Replace placeholder images/videos with your own as needed.
 - Update branding in the `Header` and `Footer` components.
 
-## License
-This project is for educational and demonstration purposes only. Not affiliated with Scorpion. 
