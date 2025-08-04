@@ -1,4 +1,4 @@
-# Reda Marketing - Scorpion Website Clone
+# Reda Marketing -  Website
 
 This project is a pixel-perfect, high-performance website, built with Next.js and styled-components for best-in-class SEO, speed, and maintainability.
 
