@@ -1,6 +1,6 @@
 # Reda Marketing - Scorpion Website Clone
 
-This project is a pixel-perfect, high-performance clone of the [Scorpion Personal Injury](https://www.scorpion.co/personal-injury/) website, built with Next.js and styled-components for best-in-class SEO, speed, and maintainability.
+This project is a pixel-perfect, high-performance website, built with Next.js and styled-components for best-in-class SEO, speed, and maintainability.
 
 ## Features
 - Next.js (React, SSR, SSG, SEO-friendly)
